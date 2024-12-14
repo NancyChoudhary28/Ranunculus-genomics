@@ -11,8 +11,8 @@ The genome assembly and the protein-coding genes annotation is submitted at the 
 - `Ranunculus_cassubicifolius.rRNA.gff.tar.gz`: the _Ranunculus cassubicifolius_ other short non-coding RNA in gff3 format
 
 
-## Summary of repeat content identified in the Ranunculus genome using [EDTA](https://github.com/oushujun/EDTA) 
-
+- Summary of repeat content identified in the Ranunculus genome using [EDTA](https://github.com/oushujun/EDTA)
+  
 |                      | Total sequences| Total length     |    |
 |----------------------|----------|--------------|-----------|
 |                      | 320    | 2,690,854,146bp |    |
@@ -48,8 +48,8 @@ The genome assembly and the protein-coding genes annotation is submitted at the 
 
 
 
-## Summary of tRNAs identified in the Ranunculus genome using [tRNA-Scan-SE](https://github.com/UCSC-LoweLab/tRNAscan-SE)
-
+- Summary of tRNAs identified in the Ranunculus genome using [tRNA-Scan-SE](https://github.com/UCSC-LoweLab/tRNAscan-SE)
+  
 | Isotype   |       |   |       |       |       |       |       |       |       |       |       |       |       |
 |:----------|:------|:-------------------|:------|:------|:------|:------|:------|:------|:------|:------|:------|:------|:------|
 | Ala:      | 32    | AGC:               | 11.0  | GCG:  |       | CGC:  | 3.0   | TGC:  | 18.0  |       |       |       |       |
@@ -76,8 +76,8 @@ The genome assembly and the protein-coding genes annotation is submitted at the 
 | **TOTAL**     | **984**    |              |   |       |       |       |       |       |       |       |       |       |       |
 
 
-## Summary of short ncRNAs identified by [Infernal](http://eddylab.org/infernal/) cmscan by searching against [Rfam](https://rfam.org/) covariance models
-
+- Summary of short ncRNAs identified by [Infernal](http://eddylab.org/infernal/) cmscan by searching against [Rfam](https://rfam.org/) covariance models
+  
 | ncRNA type                                   | Number |
 |---------------------------------------------|--------|
 | _**Housekeeping ncRNAs**_                     |        |
