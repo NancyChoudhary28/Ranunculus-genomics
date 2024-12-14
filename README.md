@@ -43,7 +43,7 @@ The genome assembly and the protein-coding genes annotation is submitted at the 
 |----------------------|----------|--------------|-----------|
 | total interspersed  | 4001562  | 2,315,261,774   | 86.04%    |
 |----------------------|----------|--------------|-----------|
-| Total               | 4001562  | 2,315,261,774   | 86.04%    |
+| **Total**               | 4001562  | **2,315,261,774**   | **86.04%**    |
 
 
 
@@ -73,7 +73,7 @@ The genome assembly and the protein-coding genes annotation is submitted at the 
 | Supres:   | 5     | CTA:               |       | TTA:  | 4.0   | TCA:  | 1.0   |       |       |       |       |       |       |
 | Cys:      | 32    | ACA:               | 3.0   | GCA:  | 29.0  |       |       |       |       |       |       |       |       |
 | Trp:      | 21    | CCA:               | 21.0  |       |       |       |       |       |       |       |       |       |       |
-| TOTAL     | 984    |              |   |       |       |       |       |       |       |       |       |       |       |
+| **TOTAL**     | **984**    |              |   |       |       |       |       |       |       |       |       |       |       |
 
 
 ## Summary of short ncRNAs identified by [Infernal](http://eddylab.org/infernal/) cmscan by searching against [Rfam](https://rfam.org/) covariance models
