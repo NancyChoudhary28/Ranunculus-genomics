@@ -93,3 +93,5 @@ The genome assembly and the protein-coding genes annotation is submitted at the 
 ## Citations
 
 If you want to use the data in your research, then please cite: 
+Efficient assembly of plant genomes: A case study with evolutionary implications in Ranunculus (Ranunculaceae)
+Kevin Karbstein, Nancy Choudhary, Ting Xie, Salvatore Tomasello, Natascha D. Wagner, Birthe Hilkka Barke, Claudia Paetzold, John Paul Bradican, Michaela Preick, Axel Himmelbach, Nils Stein, Argyris Papantonis, Iker Irisarri, Jan de Vries, Boas Pucker, Elvira Hoerandl. bioRxiv 2023.08.08.552429; doi: https://doi.org/10.1101/2023.08.08.552429 
