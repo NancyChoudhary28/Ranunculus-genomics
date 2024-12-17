@@ -88,7 +88,7 @@ The genome assembly and the protein-coding genes annotation is submitted at the 
 | 5.8s rRNA                                   | 1077   |
 | Spliceosomal RNA (snRNA)                    | 99     |
 | _**Short regulatory RNAs**_                   |        |
-| Plant signal recognition partition RNA      | 6      |
+| Plant signal recognition particle  RNA      | 6      |
 
 ## Citations
 
