@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/902926113.svg)](https://doi.org/10.5281/zenodo.15717846)
+
 # Ranunculus-genomics
 
 ## The genomic annotation data for _Ranunculus cassubicifolius_
